@@ -1,7 +1,9 @@
 # greatest_weather_app
 
 A weather app
-![image](https://user-images.githubusercontent.com/66850881/153809767-058b1fff-a9be-4ad4-972e-be9912a3154c.png)
+
+![image](https://user-images.githubusercontent.com/66850881/153809926-45c96b27-08fa-4d68-9abb-2b83965152ca.png)
+
 
 
 ## Getting Started
